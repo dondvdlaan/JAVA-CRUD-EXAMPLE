@@ -1,0 +1,94 @@
+1,Mercedes G350,Elektric,false,100.0
+2,Mercedes A4,Elektric,false,200.0
+3,Mercedes AMG E280,Elektric,true,300.0
+4,Mercedes A36,Elektric,false,600.0
+5,Mercedes B-Class,Elektric,true,789.45
+7,Mercedes A81,Elektric,false,900.0
+8,Toyota Aygo,Hybride,true,100.5
+9,Toyota Yaris,Hybride,true,200.6
+10,Toyota RAF,Hybride,false,300.75
+11,Toyota Hilux,Hybride,true,400.9
+12,VW Golf,Stromer,true,150.78
+13,VW Passat,Diesel,true,251.45
+14,VW Polo,Diesel,true,50.45
+15,VW ID3,Stromer,true,800.78
+16,VW Golf +,Diesel,true,412.45
+17,Toyota Aygo,Hybride,true,100.5
+18,Toyota Yaris,Hybride,true,200.6
+19,Toyota RAF,Hybride,true,300.75
+20,Toyota Hilux,Hybride,true,400.9
+21,VW Golf,Diesel,true,150.78
+22,VW Passat,Diesel,true,251.45
+23,VW Polo,Diesel,true,50.45
+24,VW ID3,Stromer,true,800.78
+25,VW Golf +,Diesel,true,412.45
+26,Tesla CyberTruck,Stromer,false,-100.0
+27,Tesla Model 3,Stromer,true,1200.0
+28,Tesla Model S,Stromer,true,2500.0
+29,McLaren,Hybride,true,10000.0
+30,Lotus,Brenner,false,8500.0
+31,Ferrari,Hybride,true,25000.0
+32,Bentley,Hybride,true,50000.0
+33,McLaren,Hybride,true,10000.0
+34,Lotus,Brenner,true,8500.0
+35,Ferrari Testarosa,Hybride,true,25000.0
+36,Bentley,Hybride,true,51000.0
+37,Trabant Turbo,Elektric,true,5.0
+38,Smart very Smart,Stromer,true,3000.0
+39,Toyota Hilux,Diesel,true,1599.0
+40,DAF 66,Stromer,false,55.55
+41,Mercedes G350,Elektric,false,100.0
+42,Mercedes A4,Elektric,false,200.0
+43,Mercedes AMG E280,Elektric,true,300.0
+44,Mercedes A36,Elektric,false,600.0
+45,Mercedes B-Class,Elektric,true,789.45
+46,Mercedes A81,Elektric,false,900.0
+47,Toyota Aygo,Hybride,true,100.5
+48,Toyota Yaris,Hybride,true,200.6
+49,Toyota RAF,Hybride,false,300.75
+50,Toyota Hilux,Hybride,true,400.9
+51,VW Golf,Stromer,true,150.78
+52,VW Passat,Diesel,true,251.45
+53,VW Polo,Diesel,true,50.45
+54,VW ID3,Stromer,true,800.78
+55,VW Golf +,Diesel,true,412.45
+56,Toyota Aygo,Hybride,true,100.5
+57,Toyota Yaris,Hybride,true,200.6
+58,Toyota RAF,Hybride,true,300.75
+59,Toyota Hilux,Hybride,true,400.9
+60,VW Golf,Diesel,true,150.78
+61,VW Passat,Diesel,true,251.45
+62,VW Polo,Diesel,true,50.45
+63,VW ID3,Stromer,true,800.78
+64,VW Golf +,Diesel,true,412.45
+65,Tesla CyberTruck,Stromer,false,-100.0
+66,Tesla Model 3,Stromer,true,1200.0
+67,Tesla Model S,Stromer,true,2500.0
+68,McLaren,Hybride,true,10000.0
+69,Lotus,Brenner,false,8500.0
+70,Ferrari,Hybride,true,25000.0
+71,Bentley,Hybride,true,50000.0
+72,McLaren,Hybride,true,10000.0
+73,Lotus,Brenner,true,8500.0
+74,Ferrari Testarosa,Hybride,true,25000.0
+75,Bentley,Hybride,true,51000.0
+76,Trabant Turbo,Elektric,true,5.0
+77,Smart very Smart,Stromer,true,3000.0
+78,Toyota Hilux,Diesel,true,1599.0
+79,DAF 66,Stromer,false,55.55
+80,Toyota Aygo,Hybride,true,100.5
+81,Toyota Yaris,Hybride,true,200.6
+82,Toyota RAF,Hybride,true,300.75
+83,Toyota Hilux,Hybride,true,400.9
+84,VW Golf,Diesel,true,150.78
+85,VW Passat,Diesel,true,251.45
+86,VW Polo,Diesel,true,50.45
+87,VW ID3,Stromer,true,800.78
+88,VW Golf +,Diesel,true,412.45
+89,Tesla CyberTruck,Stromer,false,-100.0
+90,Tesla Model 3,Stromer,true,1200.0
+91,Tesla Model S,Stromer,true,2500.0
+92,McLaren,Hybride,true,10000.0
+93,Lotus,Brenner,true,8500.0
+94,Ferrari,Hybride,true,25000.0
+95,Bentley,Hybride,true,50000.0

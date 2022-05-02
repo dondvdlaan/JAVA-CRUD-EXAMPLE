@@ -1,0 +1,9 @@
+# no IDE Idea Intell J
+.idea
+
+# No dB
+lib
+
+# No output jar
+out
+
